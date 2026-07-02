@@ -7,11 +7,7 @@
 		"description": "Musical Instruments tabletop coloring poster",
 		"product_url": "/",
 		"size_variant": "Size",
-		"size_variant_options":"36\" x 36\"|60\" x 36\"[+10.00]",
-		"size_variant_options_list": {
-			"small": "36\" x 36\"",
-			"large": "60\" x 36\""
-		}
+		"size_variant_options":"36\" x 36\"|60\" x 36\"[+10.00]"
 	},
 	{
 		"id": "HALLOWEEN",
@@ -21,11 +17,7 @@
 		"description": "Halloween tabletop coloring poster",
 		"product_url": "/",
 		"size_variant": "Size",
-		"size_variant_options":"36\" x 36\"|60\" x 36\"[+20.00]",
-		"size_variant_options_list": {
-			"small": "36\" x 36\"",
-			"large": "60\" x 36\""
-		}
+		"size_variant_options":"36\" x 36\"|60\" x 36\"[+20.00]"
 	},
 	{
 		"id": "EASTER",
@@ -35,10 +27,6 @@
 		"description": "Easter tabletop coloring poster",
 		"product_url": "/",
 		"size_variant": "Size",
-		"size_variant_options":"36\" x 36\"|60\" x 36\"[+30.00]",
-		"size_variant_options_list": {
-			"small": "36\" x 36\"",
-			"large": "60\" x 36\""
-		}
+		"size_variant_options":"36\" x 36\"|60\" x 36\"[+30.00]"
 	}
 ]
