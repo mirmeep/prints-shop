@@ -43,8 +43,10 @@
 		let size = document.querySelector('#{{ .id }}-size').value;
 		document.querySelector('#{{ .id }}-btn').setAttribute("data-item-custom1-value", size);
 
-
-    console.log(document.querySelector('#{{ .id }}-size').selectedOptions[0].getAttribute('data-price'))
+    let variantPrice = document.querySelector('#{{ .id }}-size').selectedOptions[0].getAttribute('data-price')
+    let updatedPrice = (Number(variantPrice) + Number("{{ .price }}")).toFixed(2)
+    let updatedPriceText = "$" + updatedPrice
+    document.querySelector('#{{ .id }}-price').innerHTML = updatedPriceText
   });
 </script>
 
