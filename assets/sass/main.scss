@@ -16,18 +16,18 @@
 }
 
 .buy-button:hover {
-		transform: translate(0px,-4px);
+	transform: translate(0px,-4px);
 	box-shadow: 0 4px 6px rgba(181,8,8,.2)
 }
 
 .promotional-message {
-		margin-bottom: 100px;
+	margin-bottom: 100px;
 	margin-top: 25px;
 	text-align: center
 }
 
 .promotional-message h3 {
-		font-size: 24px;
+	font-size: 24px;
 	line-height: normal;
 	text-align: center;
 	letter-spacing: .4em;
@@ -36,7 +36,7 @@
 }
 
 .promotional-message h2 {
-		font-size: 100px;
+	font-size: 100px;
 	margin: 0;
 	background: linear-gradient(90deg,#FFB890 0%,#F75D5D 100%);
 	color: transparent;
@@ -108,7 +108,8 @@
 	grid-template-areas: 
 		"name         name         image" 
 		"description  description  image" 
-		"button       button       image" 
+		"size         size         image" 
+		"button       button       image"
 		".            .            image";
 	grid-template-columns: 1fr 1fr 3fr;
 	margin-bottom: 100px;
@@ -150,16 +151,17 @@
 	grid-area: button
 }
 
-.product__variant {
-	
+.product__size {
+	grid-area: size
 }
 
 .product:nth-of-type(odd) {
 	grid-template-areas: 
 		"image name         name" 
 		"image description  description" 
-		"image button       button" 
-		"image .            .";
+		"image size         size" 
+		"image button       button"
+		"image .            .          ";
 	grid-template-columns: 3fr 1fr 1fr
 }
 
@@ -169,6 +171,7 @@
 			"image        image      " 
 			"name         name       " 
 			"description  description" 
+			"size         size       "
 			"button       button     ";
 		grid-template-columns: 1fr 1fr
 	}
@@ -186,6 +189,7 @@
 			"image        image      " 
 			"name         name       " 
 			"description  description" 
+			"size         size       "
 			"button       button     ";
 		grid-template-columns: 1fr 1fr
 	}

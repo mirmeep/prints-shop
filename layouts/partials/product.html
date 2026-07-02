@@ -4,13 +4,14 @@
     <img class="product__image" src="{{ . }}" alt="">
   {{ end }}
   <p class="product__description">{{ .description }}</p>
-  <!-- TODO: add variant drop-down for sizes. Update main.scss grid-->
-  <div class="product__button-container">
-    <div class="product__price" id="{{ .id }}-price">${{ .price }}</div>
+  <div class="product__size">
     <label for="size">{{ .size_variant }}</label>
     <select name="{{ .id }}-size" id="{{ .id }}-size">
 
     </select>
+  </div>
+  <div class="product__button-container">
+    <div class="product__price" id="{{ .id }}-price">${{ .price }}</div>
     <button
       id="{{ .id }}-btn"
       class="snipcart-add-item buy-button"

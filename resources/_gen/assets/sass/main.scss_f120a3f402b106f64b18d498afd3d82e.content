@@ -89,7 +89,7 @@
   width: 100%;
   font-weight: 700;
   display: grid;
-  grid-template-areas: "name         name         image"  "description  description  image"  "button       button       image"  ".            .            image";
+  grid-template-areas: "name         name         image"  "description  description  image"  "size         size         image"  "button       button       image" ".            .            image";
   grid-template-columns: 1fr 1fr 3fr;
   margin-bottom: 100px;
   grid-column-gap: 100px; }
@@ -123,13 +123,16 @@
   flex-direction: row;
   grid-area: button; }
 
+.product__size {
+  grid-area: size; }
+
 .product:nth-of-type(odd) {
-  grid-template-areas: "image name         name"  "image description  description"  "image button       button"  "image .            .";
+  grid-template-areas: "image name         name"  "image description  description"  "image size         size"  "image button       button" "image .            .          ";
   grid-template-columns: 3fr 1fr 1fr; }
 
 @media (max-width: 600px) {
   .product:nth-of-type(odd) {
-    grid-template-areas: "image        image      "  "name         name       "  "description  description"  "button       button     ";
+    grid-template-areas: "image        image      "  "name         name       "  "description  description"  "size         size       " "button       button     ";
     grid-template-columns: 1fr 1fr; }
   .product:nth-of-type(odd) img {
     height: 300px;
@@ -138,7 +141,7 @@
 
 @media (max-width: 600px) {
   .product {
-    grid-template-areas: "image        image      "  "name         name       "  "description  description"  "button       button     ";
+    grid-template-areas: "image        image      "  "name         name       "  "description  description"  "size         size       " "button       button     ";
     grid-template-columns: 1fr 1fr; }
   .product img {
     height: 300px;
