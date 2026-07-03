@@ -151,8 +151,18 @@
 	grid-area: button
 }
 
+.dropdown {
+	padding:.5em;
+}
+
 .product__size {
-	grid-area: size
+	grid-area: size;
+	padding: 2em 0em;
+
+	label {
+		padding-right: 1em;
+		font-size:1.5em;
+	}
 }
 
 .product:nth-of-type(odd) {
