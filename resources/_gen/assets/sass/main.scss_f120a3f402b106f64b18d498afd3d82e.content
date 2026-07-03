@@ -142,7 +142,6 @@
     grid-template-areas: "image        image      "  "name         name       "  "description  description"  "size         size       " "button       button     ";
     grid-template-columns: 1fr 1fr; }
   .product:nth-of-type(odd) img {
-    height: 300px;
     width: 100%;
     margin-bottom: 30px; } }
 
@@ -151,7 +150,6 @@
     grid-template-areas: "image        image      "  "name         name       "  "description  description"  "size         size       " "button       button     ";
     grid-template-columns: 1fr 1fr; }
   .product img {
-    height: 300px;
     width: 100%;
     margin-bottom: 30px; } }
 
