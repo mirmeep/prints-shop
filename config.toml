@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = "Miranda's Prints Shop"
 
 [params]
-  description = "WARNING: This site is used for DEVELOPMENT purposes only. ANY PRODUCT LISTED ON THIS SITE IS A TEST DUMMY."
+  description = "Hi! Welcome to my store 🙂. This website is currently under development so orders won't go through, but feel free to take a look."
 
 [markup.goldmark.renderHooks.image]
   enableDefault = true
