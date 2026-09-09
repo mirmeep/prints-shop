@@ -1,6 +1,6 @@
 baseURL = 'https://mirmeep.github.io/prints-shop/'
 languageCode = 'en-us'
-title = 'DEV Art Hub Studio LLC'
+title = "Miranda's Prints Shop"
 
 [params]
   description = "WARNING: This site is used for DEVELOPMENT purposes only. ANY PRODUCT LISTED ON THIS SITE IS A TEST DUMMY."
