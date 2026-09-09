@@ -1,82 +1,18 @@
 [
 	{
-		"id": "INSTRUMENTS",
-		"name": "Musical Instruments",
-		"price": "7.99",
-		"image": "posters/musical-instruments.webp",
-		"description": "Musical Instruments tabletop coloring poster",
-		"product_url": "/",
-		"size_variant": "Size",
-		"size_variant_options":"36\" x 36\"|60\" x 36\"[+10.00]"
+		"id": "WONDER",
+		"name": "Wonder",
+		"price": "50.00",
+		"image": "prints/Wonder1.png",
+		"description": "Hand pulled print from hand carved linocut block. 5x7 print with soy based ink on 9x12 archival paper",
+		"product_url": "/"
 	},
 	{
-		"id": "HALLOWEEN",
-		"name": "Halloween",
-		"price": "7.99",
-		"image": "posters/halloween.webp",
-		"description": "Halloween tabletop coloring poster",
-		"product_url": "/",
-		"size_variant": "Size",
-		"size_variant_options":"36\" x 36\"|60\" x 36\"[+10.00]"
-	},
-	{
-		"id": "EASTER",
-		"name": "Easter",
-		"price": "7.99",
-		"image": "posters/easter.webp",
-		"description": "Easter tabletop coloring poster",
-		"product_url": "/",
-		"size_variant": "Size",
-		"size_variant_options":"36\" x 36\"|60\" x 36\"[+10.00]"
-	},
-	{
-		"id": "CHRISTMAS",
-		"name": "Christmas",
-		"price": "7.99",
-		"image": "posters/christmas.webp",
-		"description": "Christmas tabletop coloring poster",
-		"product_url": "/",
-		"size_variant": "Size",
-		"size_variant_options":"36\" x 36\"|60\" x 36\"[+10.00]"
-	},
-	{
-		"id": "NEW-YEAR",
-		"name": "New year",
-		"price": "7.99",
-		"image": "posters/new-year.webp",
-		"description": "New Year tabletop coloring poster",
-		"product_url": "/",
-		"size_variant": "Size",
-		"size_variant_options":"36\" x 36\"|60\" x 36\"[+10.00]"
-	},
-	{
-		"id": "ST-PATRICKS",
-		"name": "St Patrick's Day",
-		"price": "7.99",
-		"image": "posters/st-patricks.webp",
-		"description": "St Patrick's Day tabletop coloring poster",
-		"product_url": "/",
-		"size_variant": "Size",
-		"size_variant_options":"36\" x 36\"|60\" x 36\"[+10.00]"
-	},
-	{
-		"id": "THANKSGIVING",
-		"name": "Thanksgiving",
-		"price": "7.99",
-		"image": "posters/thanksgiving.webp",
-		"description": "Thanksgiving tabletop coloring poster",
-		"product_url": "/",
-		"size_variant": "Size",
-		"size_variant_options":"36\" x 36\"|60\" x 36\"[+10.00]"
-	},
-	{
-		"id": "VALENTINES-DAY",
-		"name": "Valentine's Day",
-		"price": "7.99",
-		"image": "posters/valentines.webp",
-		"description": "Valentine's Day tabletop coloring poster",
-		"product_url": "/",
-		"size_variant": "Size",
-		"size_variant_options":"36\" x 36\"|60\" x 36\"[+10.00]"
+		"id": "ONI",
+		"name": "Oni",
+		"price": "50.00",
+		"image": "prints/Oni1.png",
+		"description": "Hand pulled print from hand carved linocut block. 5x7 print with soy based ink on 9x12 archival paper",
+		"product_url": "/"
 	}
 ]
