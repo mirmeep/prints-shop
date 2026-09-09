@@ -4,12 +4,6 @@
     <img class="product__image" src="{{ . }}" alt="">
   {{ end }}
   <p class="product__description">{{ .description }}</p>
-  <div class="product__size">
-    <label for="size">{{ .size_variant }}</label>
-    <select class="dropdown" name="{{ .id }}-size" id="{{ .id }}-size">
-
-    </select>
-  </div>
   <div class="product__button-container">
     <div class="product__price" id="{{ .id }}-price">${{ .price }}</div>
     <button
