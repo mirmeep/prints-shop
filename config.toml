@@ -5,6 +5,14 @@ title = "Miranda's Prints Shop"
 [params]
   description = "WARNING: This site is used for DEVELOPMENT purposes only. ANY PRODUCT LISTED ON THIS SITE IS A TEST DUMMY."
 
+[module]
+  [[module.mounts]]
+    source = 'assets'
+    target = 'assets'
+  [[module.mounts]]
+    source = 'static'
+    target = 'assets'
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
