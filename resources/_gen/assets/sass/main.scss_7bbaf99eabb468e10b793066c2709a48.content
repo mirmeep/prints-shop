@@ -1,4 +1,8 @@
 @import https://fonts.googleapis.com/css?family=Open+Sans:400,600,700;
+.top-description {
+  padding: 5em;
+  text-align: center; }
+
 .buy-button {
   color: #fff;
   background-color: #f85e5e;
