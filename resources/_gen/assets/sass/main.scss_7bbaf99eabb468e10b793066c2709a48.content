@@ -207,9 +207,11 @@ footer {
   background-color: #ccc;
   padding: 5em; }
 
+footer .legal-links {
+  margin: 1em; }
+
 footer .legal-links a {
-  text-decoration: none;
-  padding: 1em; }
+  text-decoration: none; }
 
 footer .legal-links a:hover {
   text-decoration: underline; }
