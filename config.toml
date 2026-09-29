@@ -5,6 +5,21 @@ title = "Miranda Peak's Prints"
 [params]
   description = "Hi! Welcome to my store 🙂. This website is currently under development so orders won't go through, but feel free to take a look."
 
+  [params.footer]
+    [params.footer.info]
+      title = "Information"
+      [[params.footer.info.link]]
+        name = "Terms and Conditions"
+        url  = "policies/terms"
+      [[params.footer.info.link]]
+        name = "Privacy Policy"
+        url  = "policies/privacy"
+      [[params.footer.info.link]]
+        name = "Shipping Policy"
+        url  = "policies/shipping"
+      [[params.footer.info.link]]
+        name = "Return Policy"
+        url  = "policies/returns"
 [markup.goldmark.renderHooks.image]
   enableDefault = true
 

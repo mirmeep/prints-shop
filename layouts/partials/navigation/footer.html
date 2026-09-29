@@ -1,0 +1,8 @@
+<footer>
+    {{ with .Site.Params.footer.info }}
+          <h1>{{ .title }}</h1>
+            {{ range .link }}
+              <div class="legal-links"><a href="{{ .url | absURL }}">{{ .name }}</a></div>
+            {{ end }}
+    {{ end }}
+</footer>
