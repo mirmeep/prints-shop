@@ -3,7 +3,7 @@ title: 'Privacy Policy'
 date: 2026-09-29T12:08:26-08:00
 ---
 
-Last updated September 25, 2026 
+Last updated September 30, 2026 
 
 This Privacy Notice for MNP Prints ("we," "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you: Visit our website at https://mnpprints.store or any website of ours that links to this Privacy Notice Engage with us in other related ways, including any marketing or events 
 
@@ -112,10 +112,11 @@ We may update this Privacy Notice from time to time. The updated version will be
 
 ### HOW CAN YOU CONTACT US ABOUT THIS NOTICE? 
 
-If you have questions or comments about this notice, you may email us at orders@mnpprints.store or contact us by post at: 
-MNP Prints
-`<mailbox address>`
-Burbank, CA `<zip>`
+If you have questions or comments about this notice, you may email us at orders@mnpprints.store or contact us by post at:
+
+MNP Prints\
+1812 W Burbank Blvd PMB 945\
+Burbank, CA 91506\
 United States
 ### HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU? 
 

@@ -3,14 +3,18 @@ title: 'Terms & Conditions'
 date: 2026-09-29T12:08:26-08:00
 ---
 
-Last updated September 25, 2026 
+Last updated September 30, 2026 
 
 AGREEMENT TO OUR LEGAL TERMS
-We are MNP Prints ("Company," "we," "us," "our"), a company registered in California, United States at `<street address>`, Burbank, CA `<zip>`. 
+We are MNP Prints ("Company," "we," "us," "our"), a small business located in Burbank, California, United States.
 
 We operate the website https://mnpprints.store (the "Site"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services"). 
 
-You can contact us by email at orders@mnpprints.store or by mail to `<street address>`, Burbank, CA `<zip>`, United States. 
+You can contact us by email at orders@mnpprints.store or by mail to
+
+1812 W Burbank Blvd PMB 945\
+Burbank, CA 91506\
+United States
 
 These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you"), and MNP Prints, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY. 
 
@@ -151,8 +155,9 @@ These Legal Terms and any policies or operating rules posted by us on the Servic
 
 In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:
 
-MNP Prints
-`<mailbox address>`
-Burbank, CA `<zip>`
+MNP Prints\
+1812 W Burbank Blvd PMB 945\
+Burbank, CA 91506\
 United States
+
 orders@mnpprints.store
