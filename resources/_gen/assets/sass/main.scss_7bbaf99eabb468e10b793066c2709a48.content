@@ -90,6 +90,7 @@
   margin-right: auto; }
 
 .product {
+  padding-bottom: 7em;
   width: 100%;
   font-weight: 700;
   display: grid;
